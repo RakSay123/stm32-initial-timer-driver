@@ -1,0 +1,12 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:15:6:uart_enable_clock	5
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:35:6:uart_init	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:45:6:uart_write	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:51:6:uart_write_str	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:58:6:uart_write_line	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:65:6:uart_write_buf	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:73:6:uart_write_hex	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:84:6:uart_write_int	5
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:114:6:uart_write_float	3
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:143:6:uart_read	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:149:6:uart_read_str	9
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/uart/uart.c:191:6:uart_flush	2

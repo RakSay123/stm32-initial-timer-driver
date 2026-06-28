@@ -1,0 +1,11 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:3:6:gpio_enable_clock	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:37:6:gpio_mode_config	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:42:6:gpio_output_type_config	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:54:6:gpio_speed_config	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:59:6:gpio_pull_config	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:64:6:gpio_alternate_function_config	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:77:6:gpio_init	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:99:6:gpio_write	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:111:6:gpio_toggle	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:123:6:gpio_toggle_pin	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/gpio/gpio.c:135:14:gpio_read	16	static

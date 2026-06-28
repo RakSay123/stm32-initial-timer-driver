@@ -1,0 +1,16 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:15:21:bno055_read_u8	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:20:21:bno055_write_u8	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:25:9:bno055_get_chip_id	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:38:9:bno055_wait_for_mode	3
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:55:14:bno055_set_operation_mode	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:60:14:bno055_set_page	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:65:14:bno055_set_units	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:70:14:bno055_set_power_mode	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:75:14:bno055_init	9
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:109:9:bno055_read_calib_stat	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:122:15:bno055_read_page	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:135:9:bno055_read_units	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:148:6:bno055_read_euler	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:170:9:bno055_read_sys_status	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:183:9:bno055_read_sys_err	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055.c:196:9:bno055_read_mode	2

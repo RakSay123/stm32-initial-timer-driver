@@ -1,0 +1,9 @@
+C:/STM32/Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:8:21:timer_enable_clock	9
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:32:18:timer_get_irq	9
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:55:21:timer_NVIC_interrupt_enable	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:66:14:timer_init	3
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:97:21:timer_wait	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:105:14:timer_delay_s	3
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:117:14:timer_get_update_flag	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/timer/timer.c:123:14:timer_clear_update_flag	1

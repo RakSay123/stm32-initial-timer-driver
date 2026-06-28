@@ -1,0 +1,5 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/systick/systick.c:10:6:systick_init	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/systick/systick.c:17:6:SysTick_Handler	8	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/systick/systick.c:22:6:systick_delay_ms	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/systick/systick.c:30:6:systick_delay_s	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/systick/systick.c:35:10:millis	8	static

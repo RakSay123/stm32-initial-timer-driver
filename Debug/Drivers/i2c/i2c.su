@@ -1,0 +1,11 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:20:13:i2c_enable_clock	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:32:17:i2c_compute_timing	56	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:53:6:i2c_init	16	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:61:13:i2c_start	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:88:21:i2c_stop	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:104:21:i2c_write_byte	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:124:21:i2c_wait_tc	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:145:14:i2c_write_register	56	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:176:21:i2c_read_byte	24	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:197:14:i2c_read_register	64	static
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Drivers/i2c/i2c.c:237:13:i2c_reset	16	static

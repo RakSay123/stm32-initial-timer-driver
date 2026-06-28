@@ -1,0 +1,8 @@
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:5:9:bno055_verify_chip_id	2
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:19:6:bno055_print_calib_stat	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:28:6:bno055_print_page	3
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:45:6:bno055_print_euler	1
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:64:6:bno055_print_sys_status	8
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:85:6:bno055_print_sys_err	12
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:110:6:bno055_print_mode	14
+C:/Users/rakhs/STM32CubeIDE/stm32-workspace/Devices/bno055/bno055_debug.c:138:6:bno055_print_all	1
