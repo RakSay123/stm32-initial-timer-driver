@@ -52,14 +52,6 @@ int main(void)
 
 	while (1)
 	{
-//		uint32_t val = TIM3->CNT;
-//
-//		if (timer_get_update_flag(TIM3) == TIM_OK)
-//		{
-//			gpio_toggle_pin(&LED_PIN);
-//			timer_clear_update_flag(TIM3);
-//		}
-
 		if (tick_count >= 1000)
 		{
 			tick_count = 0;
